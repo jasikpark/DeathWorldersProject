@@ -1,0 +1,63 @@
+author: Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY
+title: The Deathworlders
+lang: en
+
+## Output formats
+
+# Uncomment and fill to generate files
+# output.html: some_file.html
+# output.epub: some_file.epub
+# output.pdf: some_file.pdf
+
+# Or uncomment the following to generate PDF, HTML and EPUB files based on this file's name
+output: [pdf, epub, html]
+
+# Uncomment and fill to set cover image (for EPUB)
+# cover: book_cover.jpg
+
+## List of chapters
++ 100_chapter-01-kevin-jenkins-experience.md
++ 101_chapter-02-run-little-monster.md
++ 102_chapter-03-aftermath.md
++ 103_chapter-04-eventful-month.md
++ 104_chapter-05-quarantine.md
++ 105_chapter-06-deliverance.md
++ 106_65-ultimatum.md
++ 107_chapter-07-taking-back-sky.md
++ 108_45.md
++ 109_chapter-08-tensions.md
++ 110_chapter-09-alternatives.md
++ 111_chapter-10-gains-and-losses.md
++ 112_chapter-11-legwork.md
++ 113_chapter-12-direct-delivery.md
++ 114_chapter-13-only-human.md
++ 115_chapter-14-tall-tales.md
++ 116_chapter-15-hornets-nest.md
++ 117_chapter-16-forever-changed.md
++ 118_chapter-17-firebird.md
++ 119_chapter-18-battles.md
++ 120_chapter-19-baggage.md
++ 121_chapter-20-baptisms.md
++ 122_chapter-21-exorcisms.md
++ 123_chapter-22-dragon-dreams.md
++ 124_chapter-22-warhorse.md
++ 125_second-year.md
++ 126_third-year.md
++ 127_fourth-year.md
++ 128_fifth-year.md
++ 129_operation-nova-hound.md
++ 130_225-interlude-outlets.md
++ 131_chapter-23-back-down-earth.md
++ 132_chapter-24-alien-world.md
++ 133_chapter-25-where-we-stand.md
++ 134_chapter-26-blood-and-ash.md
++ 135_chapter-27-playing-fire.md
++ 136_chapter-28-misfits.md
++ 137_chapter-29-forges.md
++ 138_chapter-30-hearts-and-minds.md
++ 139_chapter-31-touching-down.md
++ 140_chapter-32-deep-wounds.md
++ 141_chapter-33-metadyskolia.md
++ 142_chapter-34-states-mind.md
++ 143_chapter-35-event-horizons.md
++ 144_chapter-36-consequences.md
